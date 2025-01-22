@@ -1,0 +1,28 @@
+.container {
+    background-color: #f0f0f0; /* Couleur de fond grise claire */
+}
+.box {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .box-highlight {
+    background-color: #ffcc00; /* Jaune */
+    border: 2px solid #333;
+    color: blue;
+    font-size: 18px;
+  }
+  .box {
+    border: 1px solid black; /* La bordure sera noire */
+    background-color: white;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 5px;    
+  }
+  .list-item {
+    color: green;
+    font-size: 18px;
+  }
+  p {
+    color: red;
+  }

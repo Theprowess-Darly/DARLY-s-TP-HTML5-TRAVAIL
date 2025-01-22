@@ -1,0 +1,23 @@
+body {
+    background-color: cornsilk;
+  }
+  .highlight {
+    color: rgb(41, 174, 192);
+    font-weight: bold;
+  }
+  li {
+    color: rgb(162, 0, 255);
+  }
+  .special {
+    border: 2px solid gray;
+    background-color: lightgray;
+}
+.special {
+  border: 2px solid gray;
+  border-radius: 5px;
+  background-color: lightgray;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+#premier-item {
+  background-color: yellow;
+}

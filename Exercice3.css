@@ -1,0 +1,30 @@
+body {
+    background-color: paleturquoise;
+  }
+#premier-item {
+  font-weight: bold;
+}
+.premier-paragraphe {
+    font-style: italic;
+  }
+  .deuxieme-element {
+    font-style: italic;
+  }
+  .troisieme-element {
+    color: orange;
+    font-style:oblique
+  }
+  .quatrieme-element{
+    background-color:blue
+  }
+  .item-highlight {
+    color: blue;
+    font-weight: bold;
+    background-color: lightgray;
+  }
+  [class^="a"] {
+    background-color: yellow;
+  }
+  [class$="date"] {
+    background-color: green;
+  }
